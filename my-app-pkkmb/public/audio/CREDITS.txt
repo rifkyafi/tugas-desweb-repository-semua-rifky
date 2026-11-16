@@ -1,0 +1,15 @@
+MUSIC CREDITS
+=============
+
+Tracks:
+- bgm_menu.mp3
+- bgm_action_1.mp3
+
+Source: "8-bit Music Pack (Loopable)" by CodeManu
+URL: https://opengameart.org/content/8-bit-music-pack-loopable
+
+License: Creative Commons Attribution 3.0 (CC-BY 3.0)
+https://creativecommons.org/licenses/by/3.0/
+
+Per the license, attribution: "8-bit Music Pack (Loopable)" by CodeManu
+(https://opengameart.org/users/codemanu), CC-BY 3.0.

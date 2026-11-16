@@ -1,0 +1,55 @@
+{
+  "Header": {
+    "title": "ARCADE RACE",
+    "subtitle": "NURBURGRING 2026",
+    "home": "Beranda",
+    "race": "Balapan",
+    "language": "Bahasa"
+  },
+  "Race": {
+    "leaderboard": "Klasemen",
+    "circuit": "Sirkuit",
+    "track": "Trek",
+    "position": "Posisi",
+    "name": "Nama",
+    "tasksDone": "Tugas Selesai",
+    "overtake": "MENYALIP!",
+    "startRace": "BALAPAN DIMULAI",
+    "finishRace": "FINISH!",
+    "waiting": "Menunggu pembalap...",
+    "lastUpdate": "Update terakhir",
+    "progress": "Progres"
+  },
+  "Members": {
+    "title": "25 Pembalap",
+    "memberSince": "Bergabung",
+    "totalTasks": "Total Tugas",
+    "completed": "Selesai",
+    "noMember": "Anggota tidak ditemukan"
+  },
+  "Tasks": {
+    "title": "Daftar Tugas",
+    "status": "Status",
+    "done": "Selesai",
+    "pending": "Belum",
+    "assignedTo": "Ditugaskan ke",
+    "deadline": "Tenggat"
+  },
+  "Stats": {
+    "title": "Statistik Balapan",
+    "avgTasks": "Rata-rata Tugas",
+    "topSpeed": "Tercepat",
+    "mostTasks": "Terbanyak Tugas",
+    "bottomTasks": "Tersedikit Tugas",
+    "totalCompleted": "Total Terselesaikan",
+    "raceProgress": "Progres Balapan"
+  },
+  "Common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "retry": "Coba lagi",
+    "back": "Kembali",
+    "refresh": "Segarkan",
+    "by": "Oleh"
+  }
+}
