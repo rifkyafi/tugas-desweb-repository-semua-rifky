@@ -1,0 +1,2 @@
+*, *::before, *::after { box-sizing: border-box; }
+body, textarea, input, button, select { font-family: 'Sora', sans-serif; }
